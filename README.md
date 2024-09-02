@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Govardhan Reddy Danudvari</h1>
 <h3 align="center">Dedicated Electronics and Communication Engineer with a passion for bridging the gap between hardware and software. Seeking to leverage my strong foundation in electrical engineering principles to contribute to innovative projects in the software industry or electronics field.</h3>
-
+</br>
+</br>
+</br>
+</br>
+https://sphero.com/blogs/news/types-of-coding-languages
 - 🔭 I’m currently working on **Cross Platfrom Music Sync.**
 
 - 🌱 I’m currently learning **Cryptography, Blender3D, Cybersecurity.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Govardhan9797](https://github.com/Govardhan9797)
 
-- 💬 Ask me about **python & Java based porjects.**
+- 💬 Ask me about **python & Java based projects.**
 
 - 📫 How to reach me **dandugovardhanreddy@gmail.com**
 
