@@ -4,7 +4,7 @@
 </br>
 </br>
 </br>
-https://sphero.com/blogs/news/types-of-coding-languages
+image(src=href(https://sphero.com/blogs/news/types-of-coding-languages))
 - 🔭 I’m currently working on **Cross Platfrom Music Sync.**
 
 - 🌱 I’m currently learning **Cryptography, Blender3D, Cybersecurity.**
